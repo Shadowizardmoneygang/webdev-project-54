@@ -12,10 +12,6 @@ A web application to calculate GPA for individual semesters and overall CGPA for
 - Delete semesters if needed
 - Data persists in browser localStorage
 
-## Screenshot
-
-![CGPA Calculator Screenshot](screenshot.png)
-
 ## Grade Points
 
 - O: 10
